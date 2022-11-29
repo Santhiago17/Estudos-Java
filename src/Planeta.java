@@ -3,3 +3,5 @@ public class Planeta {
    int diametro;
    double massa;
 }
+
+
